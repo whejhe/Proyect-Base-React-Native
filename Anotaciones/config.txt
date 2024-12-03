@@ -1,3 +1,6 @@
+Pagina de npm:
+https://www.npmjs.com/
+
 npm uninstall -g expo-cli (expo global esta deprecado)
 
 npx create-expo-app@latest --template blank
@@ -22,18 +25,18 @@ npx expo install react-native-paper
 npx expo install react-native-tab-view
 
 Instala las librerías para formularios:
-yarn add formik 
-yarn add yup 
-yarn add react-hook-form
+npm i formik
+npm i yup
+npm i react-hook-form
 
 Instala las librerías para acceso a APIs (Axios):
 npm install axios
 
 Instala las librerías para almacenamiento local (Async Storage):
-yarn add @react-native-async-storage/async-storage
+npm i @react-native-async-storage/async-storage
 
 Otras:
-yarn add react-icons
+npm i react-icons
 npx expo install firebase
 
 Elimina el archivo package-lock.json:
