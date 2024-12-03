@@ -50,3 +50,9 @@ npx install expo react-native-maps
 
 Para archivo .env
 npm i -D react-native-dotenv
+
+Despues de copiar proyecto:
+    - Actualizar nombre en package.json
+    - Actualizar nombre en app.json
+    - Eliminar node_modules
+    - Installar dependencias (npm install)
